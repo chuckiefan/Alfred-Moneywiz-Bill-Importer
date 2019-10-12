@@ -16,7 +16,7 @@
 
 ### 安装
 
-下载地址：[Bill Converter For Moneywiz](Bill Converter For Moneywiz.alfredworkflow)
+下载地址：[Bill Converter For Moneywiz](https://github.com/chuckiefan/Alfred-Moneywiz-Bill-Importer/blob/master/Bill%20Converter%20For%20Moneywiz.alfredworkflow)
 
 下载完成后双击导入Alfred中，如图：
 
